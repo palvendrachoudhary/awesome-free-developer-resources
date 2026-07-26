@@ -1,0 +1,1 @@
+coolify - open source vercel/heroku alternative, self-host anything
