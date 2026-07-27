@@ -1,0 +1,1 @@
+supabase - open source firebase alternative
