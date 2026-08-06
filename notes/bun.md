@@ -1,1 +1,1 @@
-bun runtime - fast all-in-one JS runtime
+bun - fast javascript all in one toolkit
