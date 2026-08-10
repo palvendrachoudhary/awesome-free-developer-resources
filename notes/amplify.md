@@ -1,1 +1,1 @@
-aws amplify - fullstack app development
+aws amplify - build fullstack apps
