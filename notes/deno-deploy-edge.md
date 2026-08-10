@@ -1,0 +1,1 @@
+deno deploy edge - run js at the edge
