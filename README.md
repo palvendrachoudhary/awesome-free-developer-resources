@@ -135,6 +135,7 @@ Feel free to add things via PR — only rule is it has to actually be free (not 
 | [Playwright](https://playwright.dev) | Browser E2E |
 | [Cypress](https://cypress.io) | Browser E2E |
 | [k6](https://k6.io) | Load testing |
+| [Agent QA](https://github.com/vostride/agent-qa) | TypeScript; free core, model-provider costs may apply |
 
 ---
 
