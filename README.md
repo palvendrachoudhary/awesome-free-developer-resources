@@ -18,6 +18,7 @@ Feel free to add things via PR — only rule is it has to actually be free (not 
 | [Perplexity](https://perplexity.ai) | AI search | Free to use |
 | [ChatGPT](https://chat.openai.com) | GPT-4o | Free tier available |
 | [Claude](https://claude.ai) | Anthropic's model | Free tier available |
+| [NextReset](https://nextreset.ai/) | Codex reset history and official AI incident reference | Free, no account required |
 | [Together AI](https://together.ai) | Various open models | $5 free credits |
 
 ---
