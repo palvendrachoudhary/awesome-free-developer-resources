@@ -33,6 +33,7 @@ Feel free to add things via PR — only rule is it has to actually be free (not 
 | [Render](https://render.com) | Full stack | Free web services (sleeps) |
 | [Railway](https://railway.app) | Backend apps | $5 credit/month |
 | [Fly.io](https://fly.io) | Docker apps | 3 small VMs free |
+| [Shipvela](https://shipvela.com) | Static websites, React/Vite, CLI publishing | 3 projects, 20 publishes/month, custom domains and HTTPS |
 | [Supabase](https://supabase.com) | Postgres + auth | 2 projects free |
 | [Deno Deploy](https://deno.com/deploy) | Edge functions | 100K req/day |
 
