@@ -75,6 +75,7 @@ Feel free to add things via PR — only rule is it has to actually be free (not 
 
 | Tool | What it is |
 |------|----------|
+| [BestJSON](https://bestjson.com/) | Browser-local JSON formatting, syntax validation, repair previews and structural comparison |
 | [Excalidraw](https://excalidraw.com) | Whiteboard / diagrams |
 | [Regex101](https://regex101.com) | Regex tester with explanations |
 | [JSON Crack](https://jsoncrack.com) | Visualize JSON as a graph |
